@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I am Ricardo Organista Alvarez </h1>
 
-<h2 align="center"> 🎓Computer engineer student🎓 </h2> 
+<h2 align="center"> 🎓Computer engineering student🎓 </h2> 
 
 <h4 align="center"><i> Class of 2025 </i></h4>
 
