@@ -2,7 +2,7 @@
 
 <h2 align="center"> Computer engineering student </h2> 
 
-<h4 align="center"><i> Class of 2025 </i></h4>
+<h4 align="center"><i> How you doing? =) </i></h4>
 
 <h3 align="center"> National Autonomus University of Mexico </h3>
 
