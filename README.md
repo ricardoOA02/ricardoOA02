@@ -1,8 +1,8 @@
-<h1 align="center"> Hi, I am Ricardo Organista Alvarez </h1>
+<h1 align="center"> Hi, I am Ricardo </h1>
 
 <h2 align="center"> Computer engineering student </h2> 
 
-<h4 align="center"><i> How you doing? =) </i></h4>
+<h4 align="center"><i> =) </i></h4>
 
 <h3 align="center"> National Autonomus University of Mexico </h3>
 
