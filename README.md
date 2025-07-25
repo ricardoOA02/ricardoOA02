@@ -20,5 +20,4 @@
 
 ### Contact info:
 
-<a href="mailto:ricardo.organista.alvarez2002@gmail.com"><img src="https://img.shields.io/badge/-ricardo.organista.alvarez2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ricardoOA02"><img src="https://img.shields.io/badge/-Ricardo%20Organista%20Alvarez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
